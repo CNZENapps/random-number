@@ -1,0 +1,6 @@
+{
+  "name": "Random Number",
+  "description": "A sleek and custom-range adjustable Random Number Generator app. Simply tap the screen to roll a custom random number instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
